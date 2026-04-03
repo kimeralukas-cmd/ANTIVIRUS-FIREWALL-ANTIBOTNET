@@ -20,3 +20,10 @@ ANTIVIRUS & FIREWALL - By Limboly
 
 Download anon files https://anonfilesnew.com/jy4fdLfA5xb/python333.py
 Or clone repository.
+
+0-sudo su
+1-apt-get update
+2-apt-get upgrade
+3-apt-get install python3
+4-chmod +x python333.py
+5-sudo python3 python333.py
