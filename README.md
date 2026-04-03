@@ -15,3 +15,8 @@ ANTIVIRUS & FIREWALL - By Limboly
 8) Install & scan security packages (ClamAV/Fail2Ban/Snort/rkhunter)
 9) Update system (apt update && apt upgrade)
 10) Exit program
+
+
+
+Download anon files https://anonfilesnew.com/jy4fdLfA5xb/python333.py
+Or clone repository.
