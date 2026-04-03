@@ -1,6 +1,8 @@
 # ANTIVIRUS-FIREWALL-ANTIBOTNET
-ANTIVIRUS & FIREWALL - By 
-ANTIVIRUS & FIREWALL - By Limboly
+apt-get update && apt-get upgrade && apt-get install python3
+chmod +x python333.py
+
+sudo apt-get python3.py
 
 
 🚨 Antivirus & Firewall initiated!
